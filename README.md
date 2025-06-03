@@ -60,7 +60,7 @@ Based on your responses, the program will make a guess and store your answers in
 Each entry is stored in the corresponding CSV file as a JSON-like object:
 
 ```json
-{ "Name" : "John Doe", "Limit Government" : "yes", "Eradicate Inequality" : "no", "Powerful military" : "yes" },
+{ "Name" : "John Doe", "Limit Government" : "yes", "Eradicate Inequality" : "yes", "Powerful military" : "yes" },
 ```
 
 ---
